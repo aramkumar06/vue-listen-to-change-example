@@ -19,3 +19,5 @@ npm run build
 ```
 npm run lint
 ```
+
+https://dev.to/viniciuskneves/watch-for-vuex-state-changes-2mgj
